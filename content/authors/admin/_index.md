@@ -10,32 +10,37 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Université du Québec à Chicoutimi
+  url: "http://uqac.ca"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include mainly Empirical Software Engineering, Software Quality, Debugging, and  Software Engineering for Computer Games. I'm the creator of Swarm Debugging.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Empirical Software Engineering
+- Software Quality
+- Software Architecture
+- Debugging
+- Computer Games
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Postdoctoral Fellow
+    institution: Concordia University
+    year: 2018
+  - course: PhD in Computer Science
+    institution: Federal University of Rio Grande do Sul
+    year: 2016
+  - course: Master in Computer Science
+    institution: Federal University of Rio Grande do Sul
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Electrical Engineer
+    institution: Federal University of Rio Grande do Sul
+    year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,21 +49,41 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  #link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:fabio@petrillo.com
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/drfabiopetrillo
+- icon: skype
+  icon_pack: fab
+  link: skype:fabiopetrillo
+- icon: telegram
+  icon_pack: fab
+  link: https://t.me/fabio_petrillo
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/fabiopetrillo
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/fabio-petrillo
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.ca/citations?user=l6M9ewoAAAAJ
+- icon: dblp
+  icon_pack: ai
+  link: https://dblp.uni-trier.de/pers/hd/p/Petrillo:F=aacute=bio
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Fabio_Petrillo
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-8355-1494
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,7 +94,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm an associate professor in the Department of Computer Sciences and Mathematics (DIM) at Université du Québec à Chicoutimi (Canada) since 2018. I obtained my Ph.D. degree in Computer Science in 2016 from Federal University of Rio Grande do Sul (Brazil) and I were a postdoctoral fellow at Concordia University (Canada).  In my research career, I have worked on **Empirical Software Engineering, Software Quality, Debugging, Service-Oriented Architecture, Cloud Computing, and Agile Methods**. I have been recognized as a pioneer and an international reference on **Software Engineering for Computer Games**. I'm the creator of **Swarm Debugging**, a new collaborative approach to support debugging activities. I published several papers in international conferences and journals, including TSE, EMSE, JSS, IST, IEEE Software, QRS, ICPC, SAC, ICSOC, and VISSOFT. He has served on the program committees of several international conferences including QRS, CHI, SIGCSE, ICPC, VISSOFT, GAS and has reviewed for top international journals such as TSE, TOSEM, JSS, EMSE and IST. 
+I has also worked as a programmer, software architect, manager, and agile coach for more than 20 years, working on critical mission projects and guiding several teams.
