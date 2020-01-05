@@ -1,5 +1,5 @@
 ---
-title: " A Tertiary Systematic Literature Review on Software Visualization "
+title: "A Tertiary Systematic Literature Review on Software Visualization"
 authors:
 - Laure Bedu
 - Olivier Tinh
