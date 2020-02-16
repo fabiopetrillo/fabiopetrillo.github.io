@@ -43,7 +43,7 @@ tags:
 - Specification
 - Detection
 - Ontology
-featured: true
+featured: false
 
 links:
 - name: ScienceDirect
