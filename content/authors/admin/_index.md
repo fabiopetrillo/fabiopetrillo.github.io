@@ -14,7 +14,7 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Université du Québec à Chicoutimi
+- name: École de Technologie Supérieure
   url: "http://uqac.ca"
 
 # Short bio (displayed in user profile at end of posts)
