@@ -14,8 +14,8 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: École de Technologie Supérieure
-  url: "http://uqac.ca"
+- name: École de technologie supérieure
+  url: "http://etsmtl.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include mainly Empirical Software Engineering, Software Quality, Debugging, and  Software Engineering for Computer Games. I'm the creator of Swarm Debugging.
@@ -94,6 +94,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I'm an associate professor in the Department of Computer Sciences and Mathematics (DIM) at Université du Québec à Chicoutimi (Canada) since 2018. My main goal is to create theories and techniques to **improve software engineers' life**.  
+I'm an associate professor in the Department of Software Engineering and IT at École de Techonologie Supérieure - ÉTS (Canada). My main goal is to create theories and techniques to **improve software engineers' life**.  
 
 In my research career, I have worked on **Empirical Software Engineering, Software Quality, Debugging, Service-Oriented Architecture, Cloud Computing, and Agile Methods**. I have been recognized as a pioneer and an international reference on **Software Engineering for Computer Games**. I'm the creator of **Swarm Debugging**, a new collaborative approach to support debugging activities. 
