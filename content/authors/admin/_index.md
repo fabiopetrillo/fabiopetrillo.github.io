@@ -14,8 +14,8 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Université du Québec à Chicoutimi
-  url: "http://uqac.ca"
+- name: École de technologie supérieure
+  url: "http://etsmtl.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include mainly Empirical Software Engineering, Software Quality, Debugging, and  Software Engineering for Computer Games. I'm the creator of Swarm Debugging.
