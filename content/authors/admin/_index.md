@@ -94,6 +94,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I'm an associate professor in the Department of Software Engineering and IT at École de Techonologie Supérieure - ÉTS (Canada). My main goal is to create theories and techniques to **improve software engineers' life**.  
+I'm an associate professor in the Department of Software Engineering and IT at École de Technologie Supérieure - ÉTS (Canada) since 2022. My main goal is to create theories and techniques to **improve software engineers' life**.  
 
 In my research career, I have worked on **Empirical Software Engineering, Software Quality, Debugging, Service-Oriented Architecture, Cloud Computing, and Agile Methods**. I have been recognized as a pioneer and an international reference on **Software Engineering for Computer Games**. I'm the creator of **Swarm Debugging**, a new collaborative approach to support debugging activities. 
