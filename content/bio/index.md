@@ -7,7 +7,7 @@ tags:
 - industry 
 ---
 
-I'm an associate professor in the Department of Software Engineering and IT at École de Technologie Supérieure -  (Canada) since 2022. I obtained my Ph.D. degree in Computer Science in 2016 from Federal University of Rio Grande do Sul (Brazil) and I were a postdoctoral fellow at Concordia University (Canada).  
+I'm an associate professor in the Department of Software Engineering and IT at École de Technologie Supérieure -  (Montreal, Canada) since 2022. I obtained my Ph.D. degree in Computer Science in 2016 from Federal University of Rio Grande do Sul (Brazil) and I were a postdoctoral fellow at Concordia University (Canada).  
 
 In my research career, I have worked on **Empirical Software Engineering, Software Quality, Debugging, Service-Oriented Architecture, Cloud Computing, and Agile Methods**. I have been recognized as a pioneer and an international reference on **Software Engineering for Computer Games**. I'm the creator of **Swarm Debugging**, a new collaborative approach to support debugging activities. 
 
