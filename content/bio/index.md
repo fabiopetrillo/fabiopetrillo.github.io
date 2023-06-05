@@ -13,4 +13,4 @@ In my research career, I have worked on **Empirical Software Engineering, Softwa
 
 I published several papers in international conferences and journals, including TSE, EMSE, JSS, IST, IEEE Software, QRS, ICPC, SAC, ICSOC, and VISSOFT. He has served on the program committees of several international conferences including QRS, CHI, SIGCSE, ICPC, VISSOFT, GAS and has reviewed for top international journals such as TSE, TOSEM, JSS, EMSE and IST. 
 
-I has also worked as a programmer, software architect, manager, and agile coach for more than 20 years, working on critical mission projects and guiding several teams.
+I have also worked as a software developer, software architect, manager, and agile coach for more than 20 years, working on critical mission projects and guiding several teams.
